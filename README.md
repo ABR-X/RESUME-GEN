@@ -19,7 +19,7 @@ Il était ma première interaction avec le langage PHP. Il est maintenant publi�
 # Comment utiliser
 * Téléchargez le projet sur votre ordinateur
 * Importer la structure de base de données contenue dans le dossier "db" à votre phpMyAdmin
-* Configurez vos paramètres de connexion à la base de données dans le fichier "dbconfig.php"
+* Configurez vos paramètres de connexion à la base de données dans le fichier "connect.php"
 * Lancez le projet sur votre serveur local
 * Accédez à l'application à travers votre navigateur en entrant l'URL de votre serveur local
 
