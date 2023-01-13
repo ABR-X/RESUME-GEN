@@ -1,5 +1,5 @@
 # Generateur de CV
-Ce projet est un générateur de CV en ligne développé en collaboration avec MOHAMMED TAHALLA.
+Ce projet est un générateur de CV en ligne développé en collaboration avec MOHAMMED TAHALLA (https://github.com/SimoAs).
 Il était ma première interaction avec le langage PHP. Il est maintenant publié ici comme souvenir.
 
 # Technologies utilisées
@@ -23,3 +23,4 @@ Il était ma première interaction avec le langage PHP. Il est maintenant publi�
 * Lancez le projet sur votre serveur local
 * Accédez à l'application à travers votre navigateur en entrant l'URL de votre serveur local
 
+**Remarque**: Assurez-vous que le serveur web sur lequel vous lancez le projet (par exemple Apache ou Nginx) et PHP sont correctement installés et configurés sur votre ordinateur.
