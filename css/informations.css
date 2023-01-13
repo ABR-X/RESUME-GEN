@@ -1,0 +1,114 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight:300;
+    background-color:lightgreen;
+    color:rgb(0, 0, 0);
+  }
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 300%;
+}
+.supportText{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block {
+
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 5px solid rgb(111, 166, 111);
+    margin: 30px auto;
+    box-shadow: 1px 1px 10px gray;
+
+}
+button{
+    display: block;
+    margin: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border-top: 5px solid rgb(111, 166, 111);
+    box-shadow: 1px 1px 10px gray;
+    font-weight: bold;
+    font-size:medium;
+}
+button:hover{
+    background: rgb(26, 36, 26);
+    color:aliceblue;
+    transform: scale(120%);
+    transition-duration: 500ms;
+}
+form h2{
+  -webkit-text-stroke: 1px black;
+  -webkit-text-fill-color:  lightgreen;
+  font-size: x-large;
+  text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+form {
+    margin: 10px;
+}
+
+select{
+  width: 20%;
+}
+label,textarea {
+   
+    font-size: 20px;
+    letter-spacing: 1px;
+
+}
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    margin: 5px;
+    
+}
+
+
+.label {
+    
+    display: block;
+    margin-bottom: 5px;
+}
+.label1 {
+    
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+
+input {
+    font-size: 20px;
+    padding: 2px;
+    margin: 5px;
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    box-shadow: 1px 1px 1px #999;
+}
+div > input, label{
+    display: block;
+}
+
+
+
+#avatar{
+    border-radius: 5px;
+    border-top: 5px solid rgb(111, 166, 111);
+    box-shadow: 1px 1px 10px gray;
+    background-color:white;
+    color:rgb(0, 0, 0);
+}
+
